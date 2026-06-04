@@ -1,0 +1,3 @@
+first code: just getting the id of IMU
+second code: gets the angular velocity and acceleration in each axis
+third code: also gets the sensitivity
