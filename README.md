@@ -2,7 +2,7 @@
 
 ## Project Preview
 
-<img src="Media/imu_realtime_visualization.png" width="900">
+<img src="Media/imu_realtime_visualization.png.png" width="900">
 
 *Real-time visualization of accelerometer and gyroscope measurements acquired from an IMU sensor through an STM32 NUCLEO platform and processed in MATLAB.*
 
